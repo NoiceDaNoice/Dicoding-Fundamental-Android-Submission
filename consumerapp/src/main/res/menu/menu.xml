@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/languague"
+        android:title="@string/languague"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/favorite"
+        android:title="@string/favorite"
+        app:showAsAction="never"/>
+    <item
+
+        android:id="@+id/setting"
+        android:title="@string/daily_setting"
+        app:showAsAction="never"/>
+</menu>

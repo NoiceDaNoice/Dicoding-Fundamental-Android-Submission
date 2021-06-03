@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubApp3</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikut</string>
+    <string name="languague">Bahasa</string>
+    <string name="about">Tentang</string>
+    <string name="reminder_title" translatable="false">Pengaturan Peringantan</string>
+    <string name="daily_reminder" translatable="false">Peringatan Berkala</string>
+    <string name="daily_message" translatable="false">Buka Aplikasi Github</string>
+    <string name="daily_off">Peringatan berkala mati</string>
+    <string name="daily_on" translatable="false">Peringatan berkala hidup</string>
+    <string name="already_on_favorite">Sudah di favorite :)</string>
+    <string name="favorite" translatable="false">Favorit</string>
+    <string name="daily_setting" translatable="false">Peraturan Peringatan</string>
+
+</resources>

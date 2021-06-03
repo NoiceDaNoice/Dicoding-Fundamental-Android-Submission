@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">GithubApp3</string>
+    <string name="tab_text_1" translatable="false">Follower</string>
+    <string name="tab_text_2" translatable="false">Following</string>
+    <string name="languague" translatable="false">Languague</string>
+    <string name="about" translatable="false">About</string>
+    <string name="img" translatable="false">Github Pic</string>
+    <string name="reminder_title" translatable="false">Reminder Setting</string>
+    <string name="daily_reminder" translatable="false">Daily Reminder</string>
+    <string name="daily_message" translatable="false">Open The Github Application</string>
+    <string name="daily_off" translatable="false">Daily reminder off</string>
+    <string name="daily_on">Daily reminder on</string>
+    <string name="already_on_favorite" translatable="false">Already on favorite :)</string>
+    <string name="favorite" translatable="false">Favorite</string>
+    <string name="daily_setting" translatable="false">Dialy Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
