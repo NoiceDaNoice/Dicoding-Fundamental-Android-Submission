@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GithubApp2</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="languague">Languague</string>
+    <string name="about">About</string>
+    <string name="img" translatable="false">Github Pic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
